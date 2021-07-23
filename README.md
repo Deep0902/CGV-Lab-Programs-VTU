@@ -1,2 +1,2 @@
 # CGV-Lab-Programs-VTU
-Computer Graphics Lab Programs VTU
+VTU Programs For CGV Lab
